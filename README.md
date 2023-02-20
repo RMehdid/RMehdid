@@ -29,30 +29,21 @@ public var me = Swifter(
                   experience: 3
                 )
 ```
-
+ 
+<!--
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
 -->
+<div class="aParent">
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=RMehdid&count_private=true&theme=tokyonight&show_icons=true">
+  </div>
+ </div>
 
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/RMehdid">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RMehdid&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RMehdid&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Samy's github activity graph](https://activity-graph.herokuapp.com/graph?username=RMehdid&bg_color=232323&color=ffc677&line=d58400&point=ffd877&area=true&hide_border=true)](https://github.com/RMehdid/github-readme-activity-graph)
+![Samy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RMehdid&theme=tokyo-night)
