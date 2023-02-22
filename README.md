@@ -53,12 +53,12 @@ public var me = Swifter(
 ```
 <hr>
 <p align="center">
-  <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=RMehdid&theme=tokyonight" />
+  <img width="50%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-    <img width="49.5%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" />
-    <img width="49.5%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/RMehdid?theme=tokyonight&show_icons=true&cardType=github" />
+  <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=RMehdid&theme=tokyonight" />
+  <img width="49.5%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/RMehdid?theme=tokyonight&show_icons=true&cardType=github" />
 </p>
 
 ![Samy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RMehdid&theme=tokyo-night)
