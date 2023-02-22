@@ -37,13 +37,12 @@ public var me = Swifter(
   </a>
 </div>
 -->
-<div class="aParent">
-  <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=RMehdid&count_private=true&theme=tokyonight&show_icons=true">
-  </div>
- </div>
+
+<br/>
+<p align="left">
+    <img width="49.5%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" />
+    <img width="49.5%" height = "200px" src="https://github-readme-stats.vercel.app/api?username=RMehdid&count_private=true&theme=tokyonight&show_icons=true" />
+</p>
+<br>
 
 ![Samy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RMehdid&theme=tokyo-night)
