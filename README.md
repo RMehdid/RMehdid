@@ -13,6 +13,28 @@
   <img src="https://img.shields.io/badge/-Apple-98b982?style=for-the-badge&logo=apple&logoColor=98b982&labelColor=282828">
 </div>
 </p>
+  <table width="100%" align="center">
+  <tr>
+    <td>Language</td>
+    <td>Fluency</td>
+  </tr>
+  <tr>
+    <td>🇸🇦 Arabic</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>🇬🇧 English</td>
+    <td>⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>🇫🇷 French</td>
+    <td>⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>🇩🇪 German</td>
+    <td>⭐️⭐️</td>
+  </tr>
+</table>
 
 ```swift
 struct Swifter {
@@ -29,20 +51,14 @@ public var me = Swifter(
                   experience: 3
                 )
 ```
- 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
--->
-
-<br/>
-<p align="left">
-    <img width="49.5%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" />
-    <img width="49.5%" height = "200px" src="https://github-readme-stats.vercel.app/api?username=RMehdid&count_private=true&theme=tokyonight&show_icons=true" />
+<hr>
+<p align="center">
+  <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=RMehdid&theme=tokyonight" />
 </p>
-<br>
+
+<p align="center">
+    <img width="49.7%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" />
+    <img width="49.7%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/RMehdid?theme=tokyonight&show_icons=true&cardType=github" />
+</p>
 
 ![Samy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RMehdid&theme=tokyo-night)
