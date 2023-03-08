@@ -47,7 +47,7 @@ public var me = Swifter(
                   fullname: "Samy Abderraouf Mehdid",
                   username: "Raynex",
                   location: "Algiers, Algeria",
-                  birthday: 21,
+                  age: 21,
                   experience: 3
                 )
 ```
