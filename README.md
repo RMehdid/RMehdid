@@ -39,15 +39,15 @@
 ```swift
 struct Swifter {
   let fullname, username, location: String
-  let age: UInt
-  let experience: UInt?
+  var age: UInt
+  var experience: UInt?
 }
 
 public var me = Swifter(
                   fullname: "Samy Abderraouf Mehdid",
                   username: "Raynex",
                   location: "Algiers, Algeria",
-                  age: 20,
+                  birthday: 21,
                   experience: 3
                 )
 ```
