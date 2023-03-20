@@ -54,7 +54,7 @@ public var me = Swifter(
 <hr>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 50%;">
-    <a href="https://app.daily.dev/rmehdid"><img src="https://api.daily.dev/devcards/34db8386fb07408ab1f67d50a3623b6a.png?r=mxm" width="400" alt="Samy Abderraouf Mehdid's Dev Card"/></a>
+    <a href="https://app.daily.dev/rmehdid"><img src="https://github.com/RMehdid/RMehdid/blob/main/devcard.svg" width="400" alt="Samy Abderraouf Mehdid's Dev Card"/></a>
   </div>
   <div style="display: flex; flex-direction: column; flex-basis: 50%; justify-content: space-between;">
     <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
