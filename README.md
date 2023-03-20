@@ -52,13 +52,23 @@ public var me = Swifter(
                 )
 ```
 <hr>
-<p align="center">
-  <img width="50%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" />
-</p>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 50%;">
+    <a href="https://app.daily.dev/rmehdid"><img src="https://api.daily.dev/devcards/34db8386fb07408ab1f67d50a3623b6a.png?r=mxm" width="400" alt="Samy Abderraouf Mehdid's Dev Card"/></a>
+  </div>
+  <div style="display: flex; flex-direction: column; flex-basis: 50%; justify-content: space-between;">
+    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
+      <img width="100%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" />
+    </div>
+    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
+      <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=RMehdid&theme=tokyonight" />
+    </div>
+    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
+      <img width="100%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/RMehdid?theme=tokyonight&show_icons=true&cardType=github" />
+    </div>
+  </div>
+</div>
 
-<p align="center">
-  <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=RMehdid&theme=tokyonight" />
-  <img width="49.5%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/RMehdid?theme=tokyonight&show_icons=true&cardType=github" />
 </p>
 
 ![Samy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RMehdid&theme=tokyo-night)
