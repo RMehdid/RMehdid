@@ -34,7 +34,7 @@
     <td>🇩🇪 German</td>
     <td>⭐️⭐️</td>
   </tr>
-</table>
+</table> 
 
 ```swift
 struct Swifter {
