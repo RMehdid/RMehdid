@@ -40,7 +40,7 @@
 struct Swifter {
   let fullname, username, location: String
   var age: UInt
-  var experience: UInt?
+  var experience: UInt? // in years
 }
   
 public var me = Swifter(
