@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <b>Samy's Journey</b>
 </h1>
 
