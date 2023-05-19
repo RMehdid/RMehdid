@@ -33,7 +33,7 @@
   <tr>
     <td>🇩🇪 German</td>
     <td>⭐️⭐️</td>
-  </tr>
+  </tr> 
 </table>
 
 ```swift
