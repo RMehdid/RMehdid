@@ -53,9 +53,6 @@ public var me = Swifter(
 ```
 <hr>
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 50%;">
-    <a href="https://app.daily.dev/rmehdid"><img src="https://github.com/RMehdid/RMehdid/blob/main/devcard.svg" width="400" alt="Samy Abderraouf Mehdid's Dev Card"/></a>
-  </div>
   <div style="display: flex; flex-direction: column; flex-basis: 50%; justify-content: space-between;">
     <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
       <img width="100%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMehdid&layout=compact&theme=tokyonight" /> 
