@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Apple-98b982?style=for-the-badge&logo=apple&logoColor=98b982&labelColor=282828">
 </div>  
-</p>
+</p> 
   <table width="100%" align="center">  
   <tr>
     <td>Language</td>
