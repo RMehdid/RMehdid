@@ -2,7 +2,7 @@
   <b>Samy's Journey</b> 
 </h1> 
  
-<p align="center"> Hello, this is Samy a computer science student living in Algiers. Currently working as an iOS developer at ®Arbin. </p>
+<p align="center"> Hello, this is Samy a computer science student living in Algiers. Currently working as an iOS developer at ®Arbin. </p> 
    
 <br>   
    
