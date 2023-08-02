@@ -1,12 +1,12 @@
-<h1 align="center"> 
-  <b>Samy's Journey</b>   
-</h1>  
- 
-<p align="center"> Hello, this is Samy a computer science student living in Algiers. Currently working as an iOS developer at ®Arbin. </p> 
-    
-<br>       
-       
-<p>     
+<h1 align="center">
+  <b>Samy's Journey</b>
+</h1>
+
+<p align="center"> Hello, this is Samy a computer science student living in Algiers. Currently working as an iOS developer at ®Arbin. </p>
+
+<br>
+
+<p>
 <div align="center"> 
   <img src="https://img.shields.io/badge/-Swift-c58545?style=for-the-badge&logo=swift&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
