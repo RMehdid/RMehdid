@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Apple-98b982?style=for-the-badge&logo=apple&logoColor=98b982&labelColor=282828">
 </div>  
 </p>  
-  <table width="100%" align="center">  
+  <table width="100%" align="center">   
   <tr>
     <td>Language</td>
     <td>Fluency</td> 
