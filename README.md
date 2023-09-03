@@ -67,5 +67,3 @@ public var me = Swifter(
 </div>
 
 </p>
-
-![Samy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RMehdid&theme=tokyo-night)
