@@ -16,7 +16,7 @@
   <table width="100%" align="center">   
   <tr>
     <td>Language</td>
-    <td>Fluency</td> 
+    <td>Fluency</td>  
   </tr>
   <tr>
     <td>🇸🇦 Arabic</td>
