@@ -46,8 +46,8 @@ struct Swifter {
 public var me = Swifter(
                   fullname: "Samy Abderraouf Mehdid",
                   username: "Raynex",
-                  location: "Algiers, Algeria",
-                  age: 21,
+                  location: "Bayern, Germany",
+                  age: 22,
                   experience: 3
                 )
 ```
