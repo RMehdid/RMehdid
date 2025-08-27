@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>🇩🇪 German</td>
-    <td>⭐️⭐️⭐️⭐️</td>
+    <td>⭐️⭐️⭐️</td>
   </tr> 
 </table>
 
